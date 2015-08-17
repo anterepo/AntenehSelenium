@@ -1,0 +1,15 @@
+public class coffeemaker
+
+        {
+
+         private static  List <Ingredient> Ingredients = new ArrayList<Ingredient>(cream, sugar, coffee);
+         private static  List <Size> Size = new ArrayList<Size>(small, medium, large);
+         private static  List <Flavor> Flavor = new ArrayList <Flavor>(coffee, mild, bold and mocha>
+
+           I1 = Ingredient.get (coffee);
+           S1 = Size.get(large);
+           F1 =  Flavor.get(mocha);
+
+
+            void	make()
+            return (I1+S1+F1);
